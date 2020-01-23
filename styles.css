@@ -1,0 +1,44 @@
+.why {
+    border: solid;
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+}
+
+.start {
+    background: red;
+    border: solid;
+    padding: 10%;
+
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border: solid;
+    margin: 100px;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    background: yellow;
+    border: solid;
+}
+
+.cash {
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+    background: blue;
+    border: solid;
+}
+.thanks{
+        display: flex;
+    justify-content: center;
+    padding: 10%;
+    background: pink;
+    border: solid;
+}
+    
